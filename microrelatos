@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="micro.css">
+<head>
+    <title>MiRelato</title>
+</head>
+<body>
+    <Header>
+        <h2>Mi<span class="color-acento">Relato</span></h2>
+    </Header>
+
+    <div id="section">
+        <div class="container">
+            <h3>¿Cómo será el uso de datos en 2050?, que buena pregunta ¿no?, al escuchar esta pregunta tu imaginación vuela, imaginándose todo en lo que se podrían usar los datos en una sociedad mucho mas avanzadas. 
+                ¿Qué es lo que pienso yo?, yo pienso que tendremos un chip en el cerebro que nos conecte a internet, a través de este también podremos recibir mensajes o mandarlo solo con la mente, también vamos a poder controlar los aparatos conectados a internet como los electrodomésticos u otros dispositivos.<br><br>
+                   
+                 
+
+                Ahora la parte mala, me imagino que estando todo conectado a internet nuestra privacidad será aun menor, el chip de nuestros cerebros entiende nuestros pensamientos y los traduce, entonces, esto significa que podrían saber que pensamos, es aterrador ¿no?<br><br>
+                   ¿Que quien soy yo? mmmmm..... Te resulta extraño la forma en la que hablo ¿no?, pareciera como si estoy seguro de lo que digo. Bueno, solo te dire que disfrutes del ahora porque el mañana no es tan lindo como lo pintan. <br><br><br><br>
+                   :)
+             </h3>
+        </div>
+    </div>
+    
+</body>
+</html>
